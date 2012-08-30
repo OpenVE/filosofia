@@ -24,3 +24,6 @@ las siguientes cualidades:
 -   Que pertenezca a una institución educativa o bien que trabaje dentro de una empresa pública o privada.
 -   Que esté dispuesto a publicar repositorios y contribuir en el código de otras personas sin poner condiciones.
 -   Que sea objetivo y que critique con aportes.
+
+
+Si tienen alguna duda, por favor comuníquenla en: <https://groups.google.com/forum/#!forum/OpenVE>
