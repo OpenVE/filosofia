@@ -27,3 +27,6 @@ las siguientes cualidades:
 
 
 Si tienen alguna duda, por favor comuníquenla en: <https://groups.google.com/forum/#!forum/OpenVE>
+<br>
+
+Para más información, accede a **[nuestra wiki](https://github.com/OpenVE/filosofia/wiki)**.
