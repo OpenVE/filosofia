@@ -1,7 +1,7 @@
 Open Venezuela
 ===============
 
-Bienvenidos a *OpenVE*.
+Bienvenidos a **OpenVE**.
 Nuestra intención es promover el código abierto por parte de individuos, organizaciones públicas
 y empresas privadas, con la finalidad de promover el desarrollo de software de calidad
 dentro del país y aportar al mundo nuestras iniciativas.
